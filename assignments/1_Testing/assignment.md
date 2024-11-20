@@ -19,6 +19,8 @@ Choose if you want to work in the web version of the unity version of the calcul
 the * was + so if you did 6 * 1 you get 7 
 and i changed it to * so you  now should get 6 * 1 = 6
 for the rest the + and the - and / works
+invalid operation needs to be invalid input
 
 ## Solve the Issues
 * Fix any issues and when you're done, rerun the full test.
+* 

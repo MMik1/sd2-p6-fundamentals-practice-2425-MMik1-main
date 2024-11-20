@@ -20,7 +20,7 @@ This test plan outlines the strategy and resources for testing the Calculator Ap
   3. Enter `3`.
   4. Press the `=` button.
 - **Expected Result**: The display shows `8`.
-- **Actual Result**: .....
+- **Actual Result**: 8
 
 ### Test Case 2: Subtraction
 - **Objective**: Verify the subtraction functionality.
@@ -31,7 +31,7 @@ This test plan outlines the strategy and resources for testing the Calculator Ap
   3. Enter `4`.
   4. Press the `=` button.
 - **Expected Result**: The display shows `5`.
-- **Actual Result**: .....
+- **Actual Result**: 5
 
 ### Test Case 3: Multiplication
 - **Objective**: Verify the multiplication functionality.
@@ -42,7 +42,7 @@ This test plan outlines the strategy and resources for testing the Calculator Ap
   3. Enter `6`.
   4. Press the `=` button.
 - **Expected Result**: The display shows `42`.
-- **Actual Result**: .....
+- **Actual Result**: 13
 
 ### Test Case 4: Division
 - **Objective**: Verify the division functionality.
@@ -53,7 +53,7 @@ This test plan outlines the strategy and resources for testing the Calculator Ap
   3. Enter `2`.
   4. Press the `=` button.
 - **Expected Result**: The display shows `4`.
-- **Actual Result**: .....
+- **Actual Result**: 4
 
 ### Test Case 5: Division by Zero
 - **Objective**: Ensure the calculator handles division by zero gracefully.
@@ -64,7 +64,7 @@ This test plan outlines the strategy and resources for testing the Calculator Ap
   3. Enter `0`.
   4. Press the `=` button.
 - **Expected Result**: The display shows an error message (e.g., "Cannot divide by zero").
-- **Actual Result**: .....
+- **Actual Result**: The display shows an error message (e.g., "Cannot divide by zero").
 
 ### Test Case 6: Invalid Input Handling
 - **Objective**: Verify that the calculator handles invalid inputs appropriately.
@@ -73,4 +73,4 @@ This test plan outlines the strategy and resources for testing the Calculator Ap
   1. Enter `abc`.
   2. Press the `=` button.
 - **Expected Result**: The display shows an error message (e.g., "Invalid input").
-- **Actual Result**: .....
+- **Actual Result**: Error: Invalid operation

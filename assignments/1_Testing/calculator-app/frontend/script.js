@@ -16,7 +16,7 @@ function calculate(operation, a, b) {
             data = divide(a, b);
             break;
         default:
-            data = {error: 'Invalid operation'};
+            data = {error: 'Invalid input'};
     }
 
     if (data.error) {
