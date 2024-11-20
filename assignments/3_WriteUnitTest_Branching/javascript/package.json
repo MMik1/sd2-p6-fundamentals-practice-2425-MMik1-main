@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prime.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SintLucas-SD-Teachers/sd2_p6_fundamentals_practice_2425.git"
+  },
+  "private": true,
+  "devDependencies": {
+    "vitest": "^2.1.2"
+  }
+}
